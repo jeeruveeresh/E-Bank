@@ -1,0 +1,25 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: 'Roboto';
+}
+
+.not-img {
+  height: 300px;
+  width: 150px;
+}
+
+.not-head {
+  color: #5a7184;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.not-des {
+  color: #c3cad9;
+  font-size: 25px;
+  font-weight: 400;
+}
